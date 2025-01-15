@@ -68,7 +68,7 @@ def write_videos_to_csv(videos, channel_name):
 
 if __name__ == "__main__":
     # Replace with your API key and an array of channel names
-    api_key = 'AIzaSyBks4uTF6OX-pjGcvg5JCPkjkssDWhvs0M'
+    api_key = ''
     channel_names = ['WorldClassBullshitters','Xray Girl','YellowFlash 2','YinkaThatGuy', 'NerdWars', 
 'Fringy', 'Rags', "Midnight's Edge After Dark", "Midnight's Edge Live Archives", 'Glenn Beck']  # Add your channel names here
 
