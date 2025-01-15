@@ -22,3 +22,4 @@
 
 * From that I took a look at reddit to identify a number of youtube channels and begin pulling data.  This is an ongoing effort.
   *  Note: Much of the code is AI generated from Microsoft CoPilot with analysis by ChatGPT
+  *  Note: I have cleaned up the repository from the private version and scrubbed the API key used for the research
