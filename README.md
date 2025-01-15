@@ -13,7 +13,9 @@
 * And here are the websites I used to identify additional channels
   *  https://www.reddit.com/r/saltierthankrayt/comments/1evofak/a_list_of_reactionary_and_farright_yt_channels/
   *  https://datasociety.net/library/alternative-influence/
-  *  https://www.cogitatiopress.com/mediaandcommunication/article/view/5807  
+  *  https://www.cogitatiopress.com/mediaandcommunication/article/view/5807
+  *  Note: these files are included in the repostiory under planning_docs
+
 
 * Note: the youtube api documemntation
   *  https://developers.google.com/youtube/v3/docs/videos
