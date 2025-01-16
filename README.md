@@ -3,6 +3,14 @@
 * This is a data science research project to analyze connections between youtube channels to identify communities of interest for reactionary influencers.  This effort is based on a youtube video I watched from Pillar of Garbage (https://www.youtube.com/@PillarofGarbage) where he identified a grifterverse of youtube personalities that amplify toxic content that is a followon from GamerGate in 2014 (https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign). These tactics follow an effort by breitbart to expand the altright pipeline (https://en.wikipedia.org/wiki/Alt-right_pipeline) into different communities (video games, movies, comics, standup comedians, etc.)
 
   * The goal of this effort is to better understand these communities and gain more experience with AI generated code / data analysis.
+ 
+## Results
+
+![image](https://github.com/user-attachments/assets/a683d798-ef61-493d-9f6e-a62a1a70c42b)
+* This graph shows that there is a high degree of connectivity across the major youtube influencers for reactionary content.
+* This makes sense as each show promotes others within the community
+
+## Background Research
 
 * Here are the Youtube videos from Pillar of Garbage
   *  'Woke X-Men' and the Web of Grifter Media - https://www.youtube.com/watch?v=iAg9zsBy7fo
@@ -16,10 +24,9 @@
   *  https://www.cogitatiopress.com/mediaandcommunication/article/view/5807
   *  Note: these files are included in the repostiory under planning_docs
 
-
 * Note: the youtube api documemntation
   *  https://developers.google.com/youtube/v3/docs/videos
 
 * From that I took a look at reddit to identify a number of youtube channels and begin pulling data.  This is an ongoing effort.
   *  Note: Much of the code is AI generated from Microsoft CoPilot with analysis by ChatGPT
-  *  Note: I have cleaned up the repository from the private version and scrubbed the API key used for the research
+  *  Note: There are references to the API key used in the commits but the key is no longer functional
