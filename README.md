@@ -28,5 +28,5 @@
   *  https://developers.google.com/youtube/v3/docs/videos
 
 * From that I took a look at reddit to identify a number of youtube channels and begin pulling data.  This is an ongoing effort.
-  *  Note: Much of the code is AI generated from Microsoft CoPilot with analysis by ChatGPT
+  *  Note: All of the code is AI generated from Microsoft CoPilot with analysis by ChatGPT
   *  Note: There are references to the API key used in the commits but the key is no longer functional
